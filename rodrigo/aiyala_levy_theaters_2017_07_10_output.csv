@@ -1,0 +1,185 @@
+,names,address,neighborhood,yr_start,yr_end, capacity , capacity_med ,acg,"lfh (live,film,hybrid)",precision,lat,long,number
+1,Joaquim Elias,rua são josé,Centro,1869,1869, 500 , 500 ,A,L,street,"-23,546421","-46,635722",
+2,Club Ginástico Português,rua marechal deodoro,Centro,1878,1910,,,A,L,street,"-23,55045","-46,634272",
+3,"Germania, Salão",rua 11 de junho,Centro,1886,1916,,,A,L,street,"-23,542626","-46,638684",9 = d. josé de barros
+4,Club Internacional,rua 15 de novembro,Centro,1890,1911,,,A,L,exact,"-23,547951","-46,634215",17a
+5,"Barra Funda, 74",rua barra funda,Barra Funda,1897,1897,,,A,L,street,"-23,530159","-46,654885",74
+6,Centro Dramático Recreativo; Grêmio Dramático Gil Vicente,rua líbero badaró,Centro,1897,1901,,,A,L,street,"-23,547304","-46,636223",20
+7,Steinway; Ibach; Carlos Gomes; Conservatorio,rua são joão,Centro,1897,1930,,,A,L,exact,"-23,544333","-46,63698","95, 85, 61"
+8,Eden Club,rua florencio de abreu,Centro,1900,1909,,,A,L,street,"-23,542874","-46,632868",20-22
+9,Excelsior,rua florencio de abreu,Centro,1901,1907,,,A,L,street,"-23,541932","-46,633105","29, 33"
+10,Familiar Club,rua general ozorio,Campos Elíseos,1901,1901,,,A,L,street,"-23,538423","-46,643648",34
+11,Liga Democratica,rua florencio de abreu,Centro,1901,1901,,,A,L,street,"-23,542025","-46,632628",
+12,Nasi; Cambucy,rua dos pescadores,Cambuci,1901,1909,,,A,L,street,"-23,559632","-46,616338",44
+13,"Recreio Artistico, Sociedade",,,1901,1902,,,A,L,,,,
+14,Andrea Maggi; Gargi,rua dos imigrantes,Bom Retiro,1902,1902,,,A,L,street,"-23,529652","-46,639898",180
+15,Casino Penteado,rua rodrigues dos santos,Pari,1902,1904,,,A,L,street,"-23,535464","-46,620759",2
+16,Cercle Français,rua marechal deodoro,Centro,1902,1905,,,A,L,street,"-23,549381","-46,634023",8
+17,"Lega Lombarda, Salã da",largo de são paulo,Liberdade,1902,1931,,,A,L,street,"-23,557383","-46,633934",18-20
+18,Liga de Resistencia,,,1902,1902,,,A,L,,,,
+19,Grêmio Dramático da Lapa,,Lapa,1903,1903,,,A,L,neighb,"-23,51932","-46,70191",
+20,Liceo Español,rua do gazometro,Brás,1903,1905,,,A,L,street,"-23,544388","-46,623526",54
+21,"Popular, Theatro; Eden Theatre; Popolare; Popular do Braz",rua do gazometro,Brás,1903,1916,,,A,H,exact,"-23,544267","-46,62189","114, 112"
+22,"Celso Garcia, Salão; Classes Laboriosas",rua do carmo,Centro,1904,1931,,,A,L,street,"-23,549178","-46,631886","23, 39"
+23,"Guarany, Theatro",rua do paraíso,Paraíso,1904,1908,,,A,L,street,"-23,572848","-46,640619",32
+24,Sociedade Recreativa e Dançante Pérola Internactional,rua passos,Belenzinho,1904,1910,,,A,L,street,"-23,537998","-46,594249",
+25,"Alhambra, Salão; Centro Republicano Português; Galeria de Cristal",rua marechal deodoro,Centro,1905,1921,,,A,L,exact,"-23,5491","-46,633848",2
+26,Bevilacqua,rua são bento,Centro,1906,1909,,,A,L,exact,"-23,54842","-46,635952",14
+27,Cercle Français,rua são bento,Centro,1906,1925,,,A,L,exact,"-23,544879","-46,634672",79
+28,"Internacional, Salão, Theatro; Star",rua sete,Lapa,1906,1911,,,A,H,street,"-23,51968","-46,701565",
+29,Lyra; Nordlyset,largo do paysandú,Santa Ifigênia,1906,1920,,,A,H,street,"-23,542503","-46,637444",20
+30,"Minerva, Theatro/Salão",avenida da intendencia,Belenzinho,1906,1908,,,A,H,street,"-23,537814","-46,601308",250
+31,"Artistico, Salão",rua boa vista,Centro,1907,1907,,,A,L,street,"-23,545354","-46,633767",23 or 22
+32,"Deutschen Turnverein, Salão do",rua bom retiro,Bom Retiro,1907,1907,,,A,L,street,"-23,536559","-46,636422",18-20
+33,Grêmio Dramático e Musical Luso-Brasileiro; Real Cinema; Bijou Bom Retiro,rua da graça,Bom Retiro,1907,1940,,,A,H,street,"-23,526878","-46,640322","116, 132, 144"
+34,Actos do Lyceu,al. nothmann,Campos Elíseos,1908,2012, 600-725 , 663 ,A,H,exact,"-23,532103","-46,643695",
+35,"Apollo, Salão",rua vergueiro,Paraíso,1908,1909,,,A,H,street,"-23,566167","-46,639551","145, 159"
+36,Correio Paulistano,rua do rosário 8-12,Centro,1908,1911,,,A,L,exact,"-23,545887","-46,634481",
+37,Grupo de Studi Sociali do Bom Retiro,rua dos imigrantes,Bom Retiro,1908,1909,,,A,L,street,"-23,529491","-46,639545",195
+38,Gentil Theatre,rua são joão,Santa Ifigênia,1909,1909, 130 , 130 ,A,H,exact,"-23,543641","-46,638263",135-137
+39,Giuseppe Garibaldi; Apollo,rua carlos petit,Vila Mariana,1909,1913, 150 , 150 ,A,H,exact,"-23,584685","-46,635822",2
+40,Instituto Histórico,rua benjamin constant,Centro,1909,1909,,,A,L,exact,"-23,549549","-46,635499",
+41,Itália Fausta,rua florencio de abreu,Centro,1909,1921,,,A,H,street,"-23,5415","-46,633",45
+42,"Minerva, Theatro",largo do cambucy,Cambuci,1909,1909,,,A,L,street,"-23,56265","-46,620886",
+43,"Turnerschaft, Salão",rua bom retiro,Bom Retiro,1910,1910,,,A,L,street,"-23,535456","-46,636427",52
+44,Centro Ipiranga,rua bom pastor,Ipiranga,1912,1939, 200 , 200 ,A,H,exact,"-23,589547","-46,605963",109
+45,Consertorio,,Moóca,1912,1912,,,A,L,neighb,"-23,553783","-46,61565",
+46,Ginásio São Bento,largo de são bento,Centro,1912,1912,,,A,L,exact,"-23,54357","-46,634174",
+47,Oberdan,rua brigadeiro machado,Brás,1912,1922,,,A,L,street,"-23,541266","-46,613361",5
+48,"Gil Vicente, Salão",avenida rangel pestana,Brás,1914,1927,,,A,L,street,"-23,540958","-46,614144","265, 305"
+49,"Internacional, Salão",largo do riachuelo,Bexiga,1914,1920,,,A,L,street,"-23,549137","-46,638291",56
+50,Federação Espanhol,rua do gazometro,Brás,1920,1931,,,A,L,street,"-23,543795","-46,623702",49
+51,Ivonette Theatro,avenida celso garcia,Belenzinho,1920,1920,,,A,L,street,"-23,538076","-46,601937",238
+52,"União Lapa, Salão do",rua 12 de outubro,Lapa,1920,1920,,,A,L,street,"-23,517469","-46,70305",
+53,Sociedade Italiana,rua moóca,Alto da Moóca,1921,1921,,,A,L,street,"-23,554812","-46,59989",508
+54,"Opera, Casa da; Theatro do Largo do Palacio; Theatro Publico; Theatro de São Paulo",largo da fundição,Centro,1795,1870, 350 , 350 ,C,L,street,"-23,54838","-46,632642",
+55,"Batuíra, Theatro",rua da cruz preta,Centro,1864,1867, 200 , 200 ,C,L,street,"-23,549962","-46,634892",4
+56,"Provisorio, Theatro; Ginasio Dramático; Theatro das Variedades Paulistanas; Sociedade Congresso Ginastico Português; Minerva; Apollo",rua boa vista,Centro,1873,1899,,,C,L,exact,"-23,546489","-46,633519",
+57,Polytheama,rua são joão,Centro,1892,1914," 946-3,000 ", 1.973 ,C,H,exact,"-23,544911","-46,635849",20
+58,Progredior; Paulicéa,rua 15 de novembro,Centro,1897,1917,,,C,H,exact,"-23,54669","-46,634016",38
+59,–––,rua dos italianos,Bom Retiro,1898,1899, 100 , 100 ,C,L,exact,"-23,529409","-46,640963",1
+60,Eldorado,rua/avenida são joão,Centro,1899,1914, 325-400 , 363 ,C,H,exact,"-23,545002","-46,635731","15, 19, 21"
+61,"New York em São Paulo, Salão",rua 15 de novembro,Centro,1899,1900,,,C,H,exact,"-23,5459","-46,634373",58
+62,"Paulista, Cinema; Salão Alhambra",rua senador feijó,Centro,1899,1910,,,C,H,street,"-23,550018","-46,635678",2
+63,Casino Paulistano,rua do carmo,Centro,1900,1900,,,C,L,street,"-23,549314","-46,632276",38-a
+64,Cineographo Lubin,rua 15 de novembro,Centro,1900,1902,,,C,H,exact,"-23,54598","-46,634594",63
+65,Paulicea Phantastica; Paris em São Paulo,rua do rosário,Centro,1900,1904, 100 , 100 ,C,H,exact,"-23,545466","-46,634349",5
+66,"Rotisserie Sportsman, Salão de; Radium; Cinematographo Paulista",rua são bento,Centro,1900,1914,,,C,H,exact,"-23,545827","-46,635202",59-61
+67,Santana,rua boa vista,Centro,1900,1912, 1.186 , 1.186 ,C,H,exact,"-23,546489","-46,633519",20
+68,Olavo Bilac; Apollo,avenida rangel pestana,Belenzinho,1905,1907,,,C,H,exact,"-23,54267","-46,616899",227-a
+69,Moulin Rouge; Theatro Avenida; Carlos Gomes; Variedades; Royal Theatre,rua são joão,Santa Ifigênia,1906,1929," 980-1,100 ", 1.040 ,C,H,exact,"-23,543398","-46,638842","161, 115"
+70,Iris Theatre; Kinema,rua 15 de novembro,Centro,1907,1917, 420 , 420 ,C,F,exact,"-23,546043","-46,634155",52
+71,Novo Seculo,largo de são bento,Centro,1907,1907,,,C,L,street,"-23,544304","-46,634488",10
+72,Colombo,largo da concórdia,Brás,1908,1966," 1,968-2,200 ", 2.084 ,C,H,exact,"-23,541668","-46,616702",
+73,Edison Cinema,rua da estação,Bom Retiro,1908,1914, 200-540 , 370 ,C,H,street,"-23,535387","-46,635921","71 = r. mauá, 191-193"
+74,"Guarany, Salão",rua do lavapés,Liberdade,1908,1909,,,C,F,street,"-23,561903","-46,622233",13
+75,High-Life; Cinetheatro Brasil; São Carlos,largo do arouche,Santa Cecília,1908,1924, 1.036 , 1.036 ,C,H,street,"-23,541093","-46,646833","65, 63, 57-a, 26"
+76,João Minhoca,rua barra funda,Barra Funda,1908,1908,,,C,L,street,"-23,527331","-46,657957",158
+77,Mignon Theatre,rua do seminário,Centro,1908,1909,,,C,H,exact,"-23,54447","-46,635331",10-12
+78,Palace,ladeira do piques,Centro,1908,1908,,,C,F,exact,"-23,548193","-46,639352","7-a = rua quirino de andrade, 7-a"
+79,Paris Theatre,rua anhangabaú,Centro,1908,1909,,,C,F,exact,"-23,543484","-46,634903",12-14
+80,Penha,rua campos salles,Penha,1908,1914,,,C,F,street,"-23,525413","-46,549257","23, 25 = r. da penha, 25"
+81,"Petit Santana, Theatro",rua voluntarios da patria,Santana,1908,1917,,,C,H,street,"-23,49698","-46,62619","459,467,  469"
+82,"Popular, Cinema",avenida rangel pestana,Brás,1908,1913,,,C,H,exact,"-23,54463","-46,618931","140, 168, 170"
+83,American Cinema,rua barra funda,Barra Funda,1909,1909, 81 , 81 ,C,H,street,"-23,528282","-46,657835",151
+84,"Brasil, Cinema",rua dos andradas,Santa Ifigênia,1909,1913, 150 , 150 ,C,F,exact,"-23,535763","-46,63998",53
+85,Casino; Apollo,rua dom josé de barros,Centro,1909,1962," 1,138-1,544 ", 1.341 ,C,H,exact,"-23,543371","-46,63973","8 = r. 11 de julho, 8; r. 24 de maio, 40, 188"
+86,"Choueiri, Antonio; Shoneiri",rua vergueiro,Liberdade,1909,1909, 100 , 100 ,C,F,street,"-23,563233","-46,638671",4
+87,Eden Cinema; Lirico Cinema,rua são bento,Centro,1909,1909, 1.200 , 1.200 ,C,F,exact,"-23,546949","-46,635723",33
+88,Ideal Cinema,rua barão de itapetininga,Centro,1909,1909,,,C,F,exact,"-23,543883","-46,640665",44
+89,Paris Theatre,rua direita,Centro,1909,1910,,,C,F,exact,"-23,548583","-46,635168",29
+90,Pavilhão dos Campos Elyseos; Coliseu dos Campos Elyseos; Theatro Colyseu,al. barão do rio branco,Campos Elíseos,1909,1924, 2.000 , 2.000 ,C,H,exact,"-23,532702","-46,645478",57
+91,Petit Cinema; Cinema Odeon,rua marquez de itú,Vila Buarque,1909,1910,,,C,H,street,"-23,543648","-46,647565",50-50a
+92,Royal Cinema,rua são lázaro,Luz,1909,1910,,,C,F,street,"-23,534786","-46,628562",19
+93,"Santos, José Pereira dos",rua dos imigrantes,Bom Retiro,1909,1909,,,C,F,street,"-23,530399","-46,639617",120
+94,"São José, Theatro",rua xavier de toledo,Centro,1909,1924," 2,322-3,000 ", 2.661 ,C,H,street,"-23,546343","-46,638917",1
+95,Smart; Cinematographica Brasileira; Cinema Guarany,largo do arouche,Vila Buarque,1909,1921, 730 , 730 ,C,F,exact,"-23,541066","-46,646154","26, 31, 94"
+96,"Avenida, Theatro",avenida brigadeiro luiz antonio,Liberdade,1910,1912,,,C,H,street,"-23,55272","-46,637796",56
+97,"Braz Bijou, Salão Cinema",avenida rangel pestana,Brás,1910,1917, 750-850 , 800 ,C,H,exact,"-23,544831","-46,619136","148, 118"
+98,Chantecler; Rio Branco,rua general ozorio,Santa Ifigênia,1910,1925, 800 , 800 ,C,F,exact,"-23,536995","-46,640545","73, 75, 77"
+99,Congresso,rua do theatro,Centro,1910,1929, 438-515 , 477 ,C,F,exact,"-23,551421","-46,634854","9-11 = praça joão mendes, 9-11"
+100,Ideal Cinema,rua do gazometro,Brás,1910,1914,,,C,F,exact,"-23,543925","-46,624352",35-37
+101,"Piratininga, Salão Cinema; Eclair",rua piratininga,Brás,1910,1913,,,C,F,street,"-23,549355","-46,617793",118
+102,Royal Cinema,rua lopes de oliveira,Barra Funda,1910,1910,,,C,F,street,"-23,532585","-46,655897",53
+103,São João,rua são joão,Santa Cecília,1910,1910,,,C,F,street,"-23,537156","-46,648641",371
+104,"São Paulo, Theatro, Pavilhão",largo de são paulo,Liberdade,1910,1912,,,C,H,street,"-23,557166","-46,633126",18
+105,"America, Cinema; Biographo Variedades; Cinema Biograph; American",rua da consolação,Consolação,1911,1947, 450-802 , 626 ,C,H,street,"-23,552755","-46,659666",324-326
+106,Amerikan Cinema; American Cinema; Cinema Celso Garcia,avenida celso garcia,Belenzinho,1911,1917, 350-520 , 435 ,C,F,street,"-23,539846","-46,609809","40-44, 44-46"
+107,Belém; Melitta; Santa Terezinha,avenida celso garcia,Belenzinho,1911,1960," 1,245-1,700 ", 1.473 ,C,H,street,"-23,537559","-46,597363","228, 225, 328, 340, 360"
+108,Bijou Aurora; Santa Ephigenhia Theatre; Progredior; The Berlim Cinema; Aurora Theatre; Cinema Aurora,rua aurora,Santa Ifigênia,1911,1914,,,C,H,exact,"-23,538911","-46,63809",59
+109,Bijou Oriente; Flor do Oriente; Cinema Estrella; Cinema Oriente,rua oriente,Brás,1911,1919, 350-600 , 475 ,C,F,street,"-23,537574","-46,619628",41
+110,Cinema das Familias; Cinema Grátis,avenida rangel pestana,Brás,1911,1912, 300-520 , 410 ,C,F,exact,"-23,545786","-46,620937",126
+111,Eldorado Cinema; Casino Paulista; Eden-Theatre; Bijou Theatre,rua quintino bocaiuva,Centro,1911,1917, 272 , 272 ,C,H,exact,"-23,551022","-46,635001",39
+112,"Familiar, Cinema",rua general jardim,Vila Buarque,1911,1914,,,C,F,exact,"-23,544729","-46,647385",57
+113,Isis Theatre; Gloria,rua do gazometro,Brás,1911,1970," 750-1,360 ", 1.055 ,C,H,exact,"-23,543815","-46,623957",47
+114,Liberdade Theatre,rua da liberdade,Liberdade,1911,1913, 520 , 520 ,C,F,street,"-23,555352","-46,635733","34, 38"
+115,"Oriente, Pavilhão, Cinema",rua henrique dias,Brás,1911,1913, 1.800 , 1.800 ,C,H,exact,"-23,536732","-46,620148",44
+116,Palace Theatre; Palacio Theatro; Theatro Rink; Rink Theatre; Rink Avenida,avenida brigadeiro luiz antonio,Liberdade,1911,1924," 1,725-2,155 ", 1.940 ,C,H,exact,"-23,554023","-46,637642",69-a
+117,"Recreio Cinema, Pavilhão",rua major diogo,Bexiga,1911,1916, 870-930 , 900 ,C,F,street,"-23,555545","-46,642534",39
+118,Recreio da Barra Funda,rua barra funda,Barra Funda,1911,1912,,,C,H,street,"-23,531924","-46,654089",
+119,Salão Cinema; Central; Café Guarany,avenida rangel pestana,Brás,1911,1914, 600 , 600 ,C,H,exact,"-23,545915","-46,621065",122
+120,Star Cinema,"""near bondes stop""",Lapa,1911,1911,,,C,F,street,"-23,519736","-46,701498",
+121,Te-Be; Guayanazes,rua duque de caxias,Campos Elíseos,1911,1913,,,C,H,exact,"-23,536884","-46,642631",83-87
+122,"Ambrósio, Cinema",rua das flores,Centro,1912,1913,,,C,F,street,"-23,551706","-46,631609",68-70
+123,"Carlos Gomes, Cinema",rua são joão,Santa Cecília,1912,1912,,,C,F,street,"-23,536685","-46,649025","389, 382"
+124,Casino Antarctica,rua anhangabaú,Santa Ifigênia,1912,1939," 1,386-1,700 ", 1.543 ,C,H,exact,"-23,541477","-46,634803","59-63, 67"
+125,Eden Cinema; Isola,rua são caetano,Luz,1912,1921,,,C,F,street,"-23,534441","-46,631715","11, 15"
+126,Élite,rua barão de iguape,Liberdade,1912,1913,,,C,F,street,"-23,558717","-46,635615",
+127,Eros; Heros; Cine Theatro São Carlos,rua piratininga,Brás,1912,1960, 850 , 850 ,C,H,street,"-23,548326","-46,618276",95
+128,"Familiar, Cinema; Cinema/Theatro Variedades Familiar",rua três rios,Bom Retiro,1912,1914,,,C,H,street,"-23,529412","-46,638347",96
+129,Flor; Nordisk Cinema; Cinema Theatro,rua da conceição,Santa Ifigênia,1912,1920,,,C,H,street,"-23,538572","-46,636172",5
+130,Internacional,rua dos italianos,Bom Retiro,1912,1913,,,C,F,exact,"-23,525082","-46,644069","70, 72"
+131,Lapa Cinema-Theatro,rua trindade,Lapa,1912,1917, 1.200 , 1.200 ,C,H,street,"-23,520035","-46,701293","17, 19, 25, 12"
+132,Minerva; Guarany,rua da consolação,Consolação,1912,1919, 500 , 500 ,C,F,street,"-23,550815","-46,654969",217
+133,Odeon; Éclair Palacio,rua duque de caixas,Campos Elíseos,1912,1914, 478 , 478 ,C,H,street,"-23,537829","-46,644939",46
+134,Paraizo,rua vergueiro,Paraíso,1912,1913, 285 , 285 ,C,F,street,"-23,572862","-46,639821",362
+135,"R. Trindade, 27",rua trindade,Lapa,1912,1912,,,C,H,street,"-23,519114","-46,702204",27
+136,"Recreio, Pavilhão",rua engenheiro fox,Lapa,1912,1929, 300 , 300 ,C,H,street,"-23,516781","-46,704131","14, 16"
+137,"Santana, Cinema",rua voluntarios da patria,Santana,1912,1929, 300-369 , 335 ,C,H,street,"-23,501669","-46,626123","306, 316"
+138,São João; Bijou Mooca; Internacional,rua moóca,Moóca,1912,1916, 142-500 , 323 ,C,F,exact,"-23,554702","-46,601444","492, 436, 430, 380"
+139,Savoia; Campos Sales; Saquia,rua conselheiro ramalho,Bexiga,1912,1916,,,C,F,street,"-23,560815","-46,644085",205
+140,Skating Palace; Gaumont Palacio; Republica,praça da república,Vila Buarque,1912,1978," 1,830-2,000 ", 1.915 ,C,H,exact,"-23,542594","-46,643496",50
+141,Tripoli Cinema,praça josé roberto penteado,Bom Retiro,1912,1913,,,C,F,street,"-23,526671","-46,630373",37-37a
+142,Villa Marianna; Cinema Apollo; Odeon,rua domingos de moraes,Vila Mariana,1912,1929,,,C,H,street,"-23,584103","-46,636958","153, 155, 121"
+143,"Avenida, Theatro",avenida rangel pestana,Brás,1913,1914,,,C,H,street,"-23,545931","-46,62268",111
+144,"Barra Funda, Cinema",rua barra funda,Barra Funda,1913,1917,,,C,H,street,"-23,532042","-46,65315",14-16
+145,Bijou Santa Marina; Theatro Santa Marina,rua guaycurú,Água Branca,1913,1917, 1.085 , 1.085 ,C,H,street,"-23,523198","-46,691462",71
+146,"Bresser, Cinema",rua bresser,Belenzinho,1913,1917, 440-573 , 507 ,C,F,street,"-23,533689","-46,611861","55, 53"
+147,Crystal,rua lopes chaves,Barra Funda,1913,1914, 1.220 , 1.220 ,C,H,street,"-23,528934","-46,657721","37, 64"
+148,"Drolhe, Theatro; Independencia; Cinema Ipiranga",rua dos ituanos,Ipiranga,1913,1921, 390 , 390 ,C,F,exact,"-23,58067","-46,605849",33
+149,Excelsior Theatre,rua são caetano,Pari,1913,1914, 1.020 , 1.020 ,C,F,street,"-23,536167","-46,623439",226
+150,"Guarany, Theatro",largo do cambucy,Cambuci,1913,1929, 625-850 , 738 ,C,F,exact,"-23,562685","-46,620623",21
+151,Independencia,largo do cambucy,Cambuci,1913,1916, 600-700 , 650 ,C,F,exact,"-23,563089","-46,620564",
+152,Marconi,rua joão correa de mello,Bom Retiro,1913,1939," 1,215-1,500 ", 1.358 ,C,H,exact,"-23,530864","-46,63712",6
+153,Maria José,rua major josé bento,Cambuci,1913,1914, 510-642 , 576 ,C,F,street,"-23,562178","-46,615944",136
+154,Paris Cinema; Bernardino de Campos,rua appa,Santa Cecília,1913,1916, 600 , 600 ,C,F,street,"-23,53488","-46,652148",12
+155,Pathé Palacio; Liberdade,rua rodrigo silva,Centro,1913,1954, 1.040 , 1.040 ,C,H,exact,"-23,551742","-46,63542",4-10
+156,Roma,rua barra funda,Barra Funda,1913,1929, 911 , 911 ,C,F,street,"-23,530879","-46,654077","62 = r. lopes de oliveira, 21"
+157,Royal Theatre,rua sebastião pereira,Santa Cecília,1913,1952, 600-800 , 700 ,C,H,street,"-23,539691","-46,648254",62-66
+158,Scala; Brasil Cinema; Universal Cinema; Cinema Municipal,rua barão de itapetininga,Centro,1913,1917," 1,088-1,400 ", 1.244 ,C,H,exact,"-23,545102","-46,639789",10-14
+159,Tiradentes,avenida tiradentes,Luz,1913,1915, 200 , 200 ,C,H,street,"-23,533737","-46,63268",110-112
+160,America Cinema,rua lopes de oliveira,Barra Funda,1914,1916, 563 , 563 ,C,H,street,"-23,531154","-46,65552",
+161,Colyseo Villa Mariana,rua domingos de moraes,Vila Mariana,1914,1915,,,C,F,street,"-23,587339","-46,634539",221
+162,Esperia,rua conselheiro ramalho,Bexiga,1914,1952," 1,052-1,420 ", 1.236 ,C,H,exact,"-23,557256","-46,644663",132
+163,Folies Bergères,ladeira de santa ifigênia,Santa Ifigênia,1914,1914,,,C,H,exact,"-23,542492","-46,636363",7
+164,"Paz, Theatro da; Cine-Colombinho; Cine Rialto",rua joão theodoro,Pari,1914,1934, 1.005 , 1.005 ,C,H,street,"-23,53448","-46,62283","47, 49"
+165,"São José, Cinema",rua nova são josé,Brás,1914,1917, 605 , 605 ,C,F,street,"-23,544255","-46,609116",22
+166,"São Paulo, Theatro",largo de são paulo = praça almeida júnior,Liberdade,1914,1967,"1,328-2,500",1.914,C,H,exact,"-23,556372","-46,633474",
+167,"Boa Vista, Theatro",rua boa vista,Centro,1916,1947," 891-1,100 ", 996 ,C,H,exact,"-23,54462","-46,633638",52
+168,Central,rua são joão,Centro,1916,1922," 1,148-1,400  ", 1.274 ,C,F,exact,"-23,544994","-46,635767","21, 53"
+169,"Moderno, Theatro/Palacio",rua moóca,Moóca,1916,1966, 527 , 527 ,C,H,street,"-23,555065","-46,604525","419, 407"
+170,Mafalda,avenida rangel pestana,Brás,1917,1929, 800-1265 , 1.033 ,C,F,exact,"-23,544767","-46,619074",150
+171,São Pedro,rua barra funda,Barra Funda,1917,2016,"1,100-1,580",1.340,C,H,street,"-23,532481","-46,653565",33
+172,"Victoria, Cinema",,,1917,1921, 550-600 , 575 ,C,F,,,,
+,"Penha, Cine-",rua da penha,Penha,1918,1922,240,240,C,F,street,"-23,524267","-46,547939",74
+174,Osasco,,,1919,1919,,,C,F,,,,
+175,Eden Polytheama; Braz Polytheama,avenida celso garcia,Belenzinho,1921,1963, 3.225 , 3.225 ,C,H,exact,"-23,539249","-46,609925",53
+176,"Santana, Salão, Theatro",rua 24 de maio,Centro,1921,1958," 1,378-1,600 ", 1.489 ,C,H,exact,"-23,544567","-46,639634",43
+177,"Carlos Gomes, Theatro",rua 12 de outubro,Lapa,1922,1968," 1,304-2,000 ", 1.652 ,C,F,exact,"-23,518698","-46,703596","46, 44, 16, 76"
+178,"Olympia, Theatro",avenida rangel pestana,Brás,1922,1929, 2.154 , 2.154 ,C,H,street,"-23,546533","-46,622059","88-94, 118-a, 120"
+179,"Phenix, Theatro",rua domingos de moraes,Vila Mariana,1923,1965,,,C,F,street,"-23,583909","-46,637093",74
+180,Triangulo,rua 15 de novembro,Centro,1923,1929, 500 , 500 ,C,F,street,"-23,547155","-46,633987",34
+181,"Paraizo, Theatro",rua do paraíso,Paraíso,1924,1945,1.116,1.116,C,F,street,"-23,574013","-46,638969","63, 69"
+182,"São José, Theatro",largo municipal = largo de são gonçalo,Centro,1861,1898,,,G,L,street,"-23,551739","-46,634731",
+183,"Municipal, Theatro",rua conselheiro chrispiano,Centro,1911,2016,,,G,L,exact,"-23,545303","-46,638775",
+184,Jardim da Acclimação ,jardim da acclimação,Acclimação,1918,1920,,,G,L,exact,"-23,572524","-46,628982",
