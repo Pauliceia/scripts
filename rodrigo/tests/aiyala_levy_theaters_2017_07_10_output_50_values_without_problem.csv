@@ -5,19 +5,13 @@
 3,4.0,Club Internacional,Centro,1890,1911,,,A,L,exact,"-23,547951","-46,634215",rua 15 de novembro,17a
 4,5.0,"Barra Funda, 74",Barra Funda,1897,1897,,,A,L,street,"-23,530159","-46,654885",rua barra funda,74
 5,6.0,Centro Dramático Recreativo,"R. Líbero Badaró, 20",Centro,1897,1901,,,A,L,street,"-23,547304",grêmio dramático gil vicente,
-6,7.0,Steinway, Carlos Gomes, Conservatorio,"R. São João, 95, 85, 61",Centro,1897,1930,,,A,L,ibach,
 7,8.0,Eden Club,Centro,1900,1909,,,A,L,street,"-23,542874","-46,632868",rua florencio de abreu,20-22
 8,9.0,Excelsior,Centro,1901,1907,,,A,L,street,"-23,541932","-46,633105",rua florencio de abreu,"29, 33"
 9,10.0,Familiar Club,Campos Elíseos,1901,1901,,,A,L,street,"-23,538423","-46,643648",rua general ozorio,34
 10,11.0,Liga Democratica,Centro,1901,1901,,,A,L,street,"-23,542025","-46,632628",rua florencio de abreu,
-11,12.0,Nasi,"R. dos Pescadores, 44",Cambuci,1901,1909,,,A,L,street,"-23,559632",cambucy,
-12,13.0,"Recreio Artistico, Sociedade",,1901,1902,,,A,L,,,,,
-13,14.0,Andrea Maggi,"R. dos Imigrantes, 180",Bom Retiro,1902,1902,,,A,L,street,"-23,529652",gargi,
 14,15.0,Casino Penteado,Pari,1902,1904,,,A,L,street,"-23,535464","-46,620759",rua rodrigues dos santos,2
 15,16.0,Cercle Français,Centro,1902,1905,,,A,L,street,"-23,549381","-46,634023",rua marechal deodoro,8
 16,17.0,"Lega Lombarda, Salã da",Liberdade,1902,1931,,,A,L,street,"-23,557383","-46,633934",largo de são paulo,18-20
-17,18.0,Liga de Resistencia,,1902,1902,,,A,L,,,,,
-18,19.0,Grêmio Dramático da Lapa,Lapa,1903,1903,,,A,L,neighb,"-23,51932","-46,70191",,
 19,20.0,Liceo Español,Brás,1903,1905,,,A,L,street,"-23,544388","-46,623526",rua do gazometro,54
 20,21.0,"Popular, Theatro; Eden Theatre; Popolare; Popular do Braz",Brás,1903,1916,,,A,H,exact,"-23,544267","-46,62189",rua do gazometro,"114, 112"
 21,22.0,"Celso Garcia, Salão; Classes Laboriosas",Centro,1904,1931,,,A,L,street,"-23,549178","-46,631886",rua do carmo,"23, 39"
